@@ -1,0 +1,9 @@
+Package: cutefish-wallpapers
+Version: 0.1
+Architecture: amd64
+Maintainer: CutefishOS <cutefishos@foxmail.com>
+Installed-Size: 3706
+Section: devel
+Priority: optional
+Homepage: https://github.com/cutefishos/wallpapers
+Description: CutefishOS Wallpapers
